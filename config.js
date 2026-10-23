@@ -48,17 +48,17 @@ window.MIRIAM_CONFIG = {
 
   /* ---------- 3. COLORES Y ESTILO ---------- */
   colores: {
-    primario: "#3B1F4A",     // ciruela profundo: botones, títulos, secciones oscuras
-    secundario: "#8E5BA8",   // orquídea: detalles
-    acento: "#C2366B",       // frambuesa: botón destacado
-    suave: "#CDE9DD",        // menta suave: pequeños toques
-    fondo: "#F7F2F9",        // fondo general
-    fondoAlt: "#EDE3F2",     // fondo de secciones alternas
+    primario: "#0F3D2E",     // botones, títulos, secciones oscuras
+    secundario: "#B8923A",   // detalles
+    acento: "#8F6A1F",       // botón destacado
+    suave: "#F0E2B6",       
+    fondo: "#F8F4EC",        // fondo general
+    fondoAlt: "#E7EEE6",     // fondo de secciones alternas
     tarjeta: "#FFFFFF",
-    texto: "#2B1735",
-    textoSuave: "#675673",
-    borde: "#DCCDE4",
-    textoSobreOscuro: "#F7F2F9"
+    texto: "#14261E",
+    textoSuave: "#55655C",
+    borde: "#D8D2BF",
+    textoSobreOscuro: "#F8F4EC"
   },
   tipografia: {
     // Fuente cargada desde Google Fonts. Para no usarla, deja la URL en "".
